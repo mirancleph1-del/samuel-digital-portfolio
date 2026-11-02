@@ -2,7 +2,7 @@
 
 **Automate | Grow | Scale**
 
-Personal portfolio site for Samuel Digital (Steven Samuel) — freelance GoHighLevel\ specialist, web designer, and full-stack developer.
+Personal portfolio site for Samuel Digital (Steven Samuel) — freelance GoHighLevel specialist, web designer, and full-stack developer.
 
 **Live site:** https://site-e82d93e5695d410096d60f2b9100ec0c.freebuff.page
 
